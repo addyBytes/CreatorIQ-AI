@@ -1,12 +1,56 @@
-# React + Vite
+CreatorIQ-AI
+A YouTube AI Content Analyzer & Media Saver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Creator IQ is an AI-powered YouTube video analysis tool that allows creators to download videos, analyze content, and get AI-driven improvement suggestions. Integrated with Gemini AI, it can answer questions and provide actionable insights to optimize your videos.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Video Analysis: Extract and display video metadata such as:
 
-## Expanding the ESLint configuration
+1.Title
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2.Description
+
+3.Tags
+
+4.Thumbnail
+
+5.View count, likes, comments (if accessible)
+
+Video Download: Download YouTube videos directly via a link.
+
+AI Assistant (Gemini Integration):
+
+.Chat about the video content
+
+.Ask for improvement suggestions
+
+.Optimize titles, descriptions, and tags
+
+.User-Friendly Interface: Easy-to-use dashboard for all features.
+
+⚠️ Disclaimer: Downloading YouTube videos may violate YouTube's terms of service. This project is intended strictly for educational purposes and skill demonstration only. Do not use this tool for piracy or unauthorized content distribution.
+
+Usage
+
+1.Open the app.
+
+2.Paste the YouTube video link.
+
+3.View analytics and metadata.
+
+4.Chat with the integrated AI (Gemini) to ask questions or get improvement tips.
+
+5.Use AI suggestions to optimize content strategy.
+
+AGAIN ⚠️ Disclaimer:
+
+Downloading YouTube videos may violate YouTube's Terms of Service and copyright laws.
+
+This project is intended strictly for educational purposes, learning, and skill demonstration only.
+
+You are solely responsible for how you use this tool. Any misuse, including downloading, distributing, or sharing copyrighted content, is entirely at your own risk.
+
+The creator of this project takes no responsibility for any legal action, penalties, or consequences resulting from your use of this tool.
+
+By using this tool, you agree that all responsibility lies with you, and you absolve the creator from any liability.**
